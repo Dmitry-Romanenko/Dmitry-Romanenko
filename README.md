@@ -40,7 +40,7 @@ I specialize in creating responsive, high-performance e-commerce platforms, web 
 
 ## Connect with me  
 <div align="left">
-  <a href="https://wa.me/yourphonenumber" target="_blank">
+  <a href="https://wa.me/380969680142?text=Hi!" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2384B13D.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;" />
   </a>
 <a href="https://linkedin.com/in/dmitry-romanenko-bb1615340" target="_blank">
