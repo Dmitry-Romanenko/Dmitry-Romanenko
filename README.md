@@ -43,7 +43,7 @@ I specialize in creating responsive, high-performance e-commerce platforms, web 
   <a href="https://wa.me/380969680142?text=Hi!" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2384B13D.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;" />
   </a>
-<a href="https://linkedin.com/in/dmitry-romanenko-bb1615340" target="_blank">
+<a href="https://www.linkedin.com/in/dmytro-romanenko-532389341" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   <a href="mailto:dmitryromanenko80@gmail.com" target="_blank">
